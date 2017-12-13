@@ -22,9 +22,9 @@ upgrades going to 2.11 where the Whiteboard will be replaced in the Hex Menu.
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐ 
 │ ORIGIN STORY                                                                                │ 
 ├─────────────────────────────────────────────────────────────────────────────────────────────┤ 
-│   DATE        : 2017.12.04 																  │
-│   AUTHOR      : Nick Segalle																  │ 
-│   DESCRIPTION : Prysm Upgrade Automation Tool												  │ 
+│   DATE        : 2017.12.04																  │
+│   AUTHOR      : Nicky Segalle																  │ 
+│   DESCRIPTION : Prysm Upgrade Automation Tool					 							  │ 
 └─────────────────────────────────────────────────────────────────────────────────────────────┘ 
   
 .EXAMPLE 
